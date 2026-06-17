@@ -4,7 +4,7 @@ A Blender addon that generates 3D terrain using fractal noise (Fractal Brownian 
 combined across multiple octaves. The result is a naturally-looking, procedurally structured
 terrain with configurable hills and detail levels.
  
-![Terrain preview](preview.png)
+![Terrain preview](preview.jpg)
  
 ## How it works
  
