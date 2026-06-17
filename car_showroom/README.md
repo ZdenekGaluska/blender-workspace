@@ -9,7 +9,7 @@ COLMAP reconstructs the geometry which is then composited into the scene.
 
 ## COLMAP renders
 
-Cars reconstructed from real photos via COLMAP, composited into the showroom.
+Showroom renders with client-supplied COLMAP car assets.
 
 ![](collmap_render/collmap_render_red_01.png)
 ![](collmap_render/collmap_render_red_02.png)
